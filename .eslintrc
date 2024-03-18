@@ -1,0 +1,12 @@
+{
+  "extends": ["prettier"],
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "sourceType": "module"
+  },
+  // "plugins": ["prettier"],
+  "env": {
+    "browser": true,
+    "node": true
+  }
+}
